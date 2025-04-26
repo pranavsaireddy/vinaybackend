@@ -2,6 +2,7 @@ import { BrowserRouter, Routes, Route } from 'react-router-dom'
 import Home from './pages/Home'
 import AddStudent from './pages/AddStudent'
 import EditStudent from './pages/EditStudent'
+import './styles.css';
 
 function App() {
   return (
